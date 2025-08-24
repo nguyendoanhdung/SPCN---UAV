@@ -12,7 +12,7 @@ Dự án thử nghiệm **drone cứu hộ giá rẻ** với khả năng:
 ---
 
 ## 🛠️ Thành phần chính
-- **Khung F450**, động cơ 2212/920KV, Pixhawk 2.4.8, GPS NEO-M8N.  
+- **Khung F550**, động cơ 2212/920KV, Pixhawk 2.4.8, GPS NEO-M8N.  
 - **Máy tính biên**: Raspberry Pi 5 + Coral USB TPU + camera IMX219.  
 - **Kết nối**: 4G EC25, RC/Telemetry.  
 - **Ứng dụng cứu hộ**: MIT App Inventor 2.  
