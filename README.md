@@ -20,13 +20,6 @@ Dự án thử nghiệm **drone cứu hộ giá rẻ** với khả năng:
 
 ---
 
-## 🗺️ Roadmap (3–4 tuần)
-- **Tuần 1**: Lắp ráp & bay waypoint.  
-- **Tuần 2**: Tích hợp AI & backend.  
-- **Tuần 3**: Tích hợp tọa độ & thử thả tải.  
-
----
-
 ## 🎯 KPI
 - AI ≥15 FPS, cảnh báo <3 giây.  
 - Sai số tọa độ ≤30m ở 60–80m AGL.  
