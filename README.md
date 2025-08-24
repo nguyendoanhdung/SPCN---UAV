@@ -1,4 +1,4 @@
-# 🚁 Drone Cứu Hộ Giá Rẻ (MVP F450 + AI Edge)
+# 🚁 Drone Cứu Hộ Giá Rẻ (MVP F550 + AI Edge)
 
 ## 📌 Giới thiệu
 Dự án thử nghiệm **drone cứu hộ giá rẻ** với khả năng:
