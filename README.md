@@ -49,3 +49,13 @@ Cập nhật tiến độ:
 
 **Khó khăn / Vấn đề:**
 - N/A
+
+### 📅 Tuần 3 – ngày 31 tháng 8
+**Công việc đã hoàn thành:**
+- Xử lý lắp ráp khung mạch chính của bộ khung F550, tìm hiểu sơ qua về các lý thuyết cơ bản về UAV
+
+**Kế hoạch tuần tới:**
+- N/A
+
+**Khó khăn / Vấn đề:**
+- N/A
