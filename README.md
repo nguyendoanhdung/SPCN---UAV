@@ -62,10 +62,10 @@ Cập nhật tiến độ:
 
 ### 📅 Tuần 3 – ngày 31 tháng 8
 **Công việc đã hoàn thành:**
-
+- Chạy code điều khiển servo
 
 **Kế hoạch tuần tới:**
 - N/A
 
 **Khó khăn / Vấn đề:**
-- N/A
+- cháy servo
