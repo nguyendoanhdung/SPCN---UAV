@@ -63,6 +63,7 @@ Cập nhật tiến độ:
 ### 📅 Tuần 3 – ngày 31 tháng 8
 **Công việc đã hoàn thành:**
 - Chạy code điều khiển servo
+- Bind controller với servo
 
 **Kế hoạch tuần tới:**
 - N/A
