@@ -59,3 +59,13 @@ Cập nhật tiến độ:
 
 **Khó khăn / Vấn đề:**
 - N/A
+
+### 📅 Tuần 3 – ngày 31 tháng 8
+**Công việc đã hoàn thành:**
+
+
+**Kế hoạch tuần tới:**
+- N/A
+
+**Khó khăn / Vấn đề:**
+- N/A
