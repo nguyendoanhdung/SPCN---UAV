@@ -70,3 +70,14 @@ Cập nhật tiến độ:
 
 **Khó khăn / Vấn đề:**
 - cháy servo
+
+### 📅 Tuần ?? – ngày 5 tháng 10
+**Công việc đã hoàn thành:**
+- tìm dataset để code YOLO AI detect người
+
+**Kế hoạch tuần tới:**
+- N/A
+
+**Khó khăn / Vấn đề:**
+- dataset quá nặng dẫn đến nhập dữ liệu mất nhiều thời gian
+
