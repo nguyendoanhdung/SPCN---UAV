@@ -81,3 +81,9 @@ Cập nhật tiến độ:
 **Khó khăn / Vấn đề:**
 - dataset quá nặng dẫn đến nhập dữ liệu mất nhiều thời gian
 
+https://youtu.be/786IzkuRL6A
+https://youtu.be/1CWPKRK8yGU
+https://youtu.be/-F1MWzgCfWM
+https://youtube.com/shorts/Yo1hnDIJKlg?feature=share
+https://youtube.com/shorts/KN9u3AVnuYM?feature=share
+https://youtube.com/shorts/sv2AULEKkHY?feature=share
